@@ -1,0 +1,20 @@
+.menu {
+  background: #ffd452;
+}
+.bg-light {
+  background-color: #f8f9fa00 !important;
+}
+.text-dark {
+  color: #8a7a49 !important;
+}
+a.text-dark:focus,
+a.text-dark:hover {
+  color: #000000 !important;
+}
+.body {
+  background: #ffd452;
+  height: 500px;
+}
+.gabri {
+  font-family: gabriola;
+}
